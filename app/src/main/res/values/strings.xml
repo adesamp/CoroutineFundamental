@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Coroutine Fundamental</string>
+    <string name="click_here">Click Here</string>
+    <string name="download_user_data">Download User Data</string>
+    <string name="download_user_data_with_coroutine">Download User Data with Coroutine</string>
+</resources>
